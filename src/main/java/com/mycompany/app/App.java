@@ -1,7 +1,8 @@
 package com.mycompany.app;
 
 /**
- * Hello world!
+ * Hello world! 
+ * this is a poll scm test astalavista 
  */
 public class App
 {
